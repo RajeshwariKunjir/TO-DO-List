@@ -66,6 +66,7 @@ Submit a pull request.
 <img width="1470" alt="Screenshot 2024-03-29 at 4 31 22 PM" src="https://github.com/RajeshwariKunjir/TO-DO-List/assets/134498093/5abc3ab4-df13-45fc-820c-db236b2b2925">
 
 ##License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
