@@ -46,7 +46,7 @@ Push to the branch: git push origin feature.
 Submit a pull request.
 ```
 
-##ScreenShots of the website
+## ScreenShots of the website
 
 1) Main Page:
    <img width="1470" alt="Screenshot 2024-03-29 at 4 30 21 PM" src="https://github.com/RajeshwariKunjir/TO-DO-List/assets/134498093/6277f7ff-8e42-43a2-8bfe-570c89214c47">
@@ -65,7 +65,7 @@ Submit a pull request.
 
 <img width="1470" alt="Screenshot 2024-03-29 at 4 31 22 PM" src="https://github.com/RajeshwariKunjir/TO-DO-List/assets/134498093/5abc3ab4-df13-45fc-820c-db236b2b2925">
 
-##License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
