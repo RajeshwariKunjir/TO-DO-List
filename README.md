@@ -44,8 +44,28 @@ Create a new branch: git checkout -b feature.
 Make your changes and commit them: git commit -am 'Add new feature'.
 Push to the branch: git push origin feature.
 Submit a pull request.
+```
 
-License
+##ScreenShots of the website
+
+1) Main Page:
+   <img width="1470" alt="Screenshot 2024-03-29 at 4 30 21 PM" src="https://github.com/RajeshwariKunjir/TO-DO-List/assets/134498093/6277f7ff-8e42-43a2-8bfe-570c89214c47">
+
+2) Adding the task in the list: 
+   <img width="1470" alt="Screenshot 2024-03-29 at 4 30 48 PM" src="https://github.com/RajeshwariKunjir/TO-DO-List/assets/134498093/8c7c1d69-800f-4bf4-8d84-3103d6e5be81">
+
+3) Marking complete the task using the tick icon:
+   <img width="1470" alt="Screenshot 2024-03-29 at 4 31 01 PM" src="https://github.com/RajeshwariKunjir/TO-DO-List/assets/134498093/7e3d0773-0ac2-4e37-8078-5595cab5ceb9">
+
+4) Deleting the task using the bin icon::
+   <img width="1470" alt="Screenshot 2024-03-29 at 4 31 13 PM" src="https://github.com/RajeshwariKunjir/TO-DO-List/assets/134498093/4b3a18a7-c521-45f3-9488-a4d08a36c225">
+
+5) Different background-color of the website:
+   <img width="1470" alt="Screenshot 2024-03-29 at 4 31 29 PM" src="https://github.com/RajeshwariKunjir/TO-DO-List/assets/134498093/b98b8ee4-b099-4381-84b8-ddb57e6ff108">
+
+<img width="1470" alt="Screenshot 2024-03-29 at 4 31 22 PM" src="https://github.com/RajeshwariKunjir/TO-DO-List/assets/134498093/5abc3ab4-df13-45fc-820c-db236b2b2925">
+
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
